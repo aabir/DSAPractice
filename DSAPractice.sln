@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal-Matrix", "Diagonal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleTheArray", "ShuffleTheArray\ShuffleTheArray.csproj", "{7BF3AE87-8A1B-4604-A544-A55486D015D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichestCustomerWealth01", "RichestCustomerWealth01\RichestCustomerWealth01.csproj", "{613CB2BC-B4D8-4199-9B1D-27688BA80B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichestCustomerWealth01", "RichestCustomerWealth01\RichestCustomerWealth01.csproj", "{613CB2BC-B4D8-4199-9B1D-27688BA80B88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSumofFourDigiNumberAfterSplittingDigits", "MinimumSumofFourDigiNumberAfterSplittingDigits\MinimumSumofFourDigiNumberAfterSplittingDigits.csproj", "{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumSumofFourDigiNumberAfterSplittingDigits", "MinimumSumofFourDigiNumberAfterSplittingDigits\MinimumSumofFourDigiNumberAfterSplittingDigits.csproj", "{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberofWordsFoundInSentences", "MaximumNumberofWordsFoundInSentences\MaximumNumberofWordsFoundInSentences.csproj", "{DDDFB28A-2206-4934-BA21-749F0A202CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
