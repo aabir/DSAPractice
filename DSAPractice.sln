@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichestCustomerWealth01", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumSumofFourDigiNumberAfterSplittingDigits", "MinimumSumofFourDigiNumberAfterSplittingDigits\MinimumSumofFourDigiNumberAfterSplittingDigits.csproj", "{98120BE4-4AD0-45F3-AA54-9D42A8E31EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberofWordsFoundInSentences", "MaximumNumberofWordsFoundInSentences\MaximumNumberofWordsFoundInSentences.csproj", "{DDDFB28A-2206-4934-BA21-749F0A202CEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumNumberofWordsFoundInSentences", "MaximumNumberofWordsFoundInSentences\MaximumNumberofWordsFoundInSentences.csproj", "{DDDFB28A-2206-4934-BA21-749F0A202CEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree", "FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree\FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.csproj", "{CCD43105-AA74-4CBE-AF36-224EFE0D3224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtractTheProductandSumOfDigitsofanInteger", "SubtractTheProductandSumOfDigitsofanInteger\SubtractTheProductandSumOfDigitsofanInteger.csproj", "{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDFB28A-2206-4934-BA21-749F0A202CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD43105-AA74-4CBE-AF36-224EFE0D3224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD43105-AA74-4CBE-AF36-224EFE0D3224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD43105-AA74-4CBE-AF36-224EFE0D3224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD43105-AA74-4CBE-AF36-224EFE0D3224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
