@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindaCorrespondingNodeofaBi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractTheProductandSumOfDigitsofanInteger", "SubtractTheProductandSumOfDigitsofanInteger\SubtractTheProductandSumOfDigitsofanInteger.csproj", "{3B5E18C2-DAAC-4E6A-B026-2F516BFDEE45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyNumbersAreSmallerThantheCurrentNumber", "HowManyNumbersAreSmallerThantheCurrentNumber\HowManyNumbersAreSmallerThantheCurrentNumber.csproj", "{E96A62F3-AEDB-4032-A2DB-EBB0CDF0751A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowManyNumbersAreSmallerThantheCurrentNumber", "HowManyNumbersAreSmallerThantheCurrentNumber\HowManyNumbersAreSmallerThantheCurrentNumber.csproj", "{E96A62F3-AEDB-4032-A2DB-EBB0CDF0751A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeXORedArray", "DecodeXORedArray\DecodeXORedArray.csproj", "{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E96A62F3-AEDB-4032-A2DB-EBB0CDF0751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E96A62F3-AEDB-4032-A2DB-EBB0CDF0751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E96A62F3-AEDB-4032-A2DB-EBB0CDF0751A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
