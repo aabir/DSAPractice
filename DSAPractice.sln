@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowManyNumbersAreSmallerTha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecodeXORedArray", "DecodeXORedArray\DecodeXORedArray.csproj", "{23DF8B00-4D7C-40A7-A1DF-79675C1892F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTargetArrayintheGivenOrder", "CreateTargetArrayintheGivenOrder\CreateTargetArrayintheGivenOrder.csproj", "{51C842A8-43D3-4808-83E5-B6E63A0095DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateTargetArrayintheGivenOrder", "CreateTargetArrayintheGivenOrder\CreateTargetArrayintheGivenOrder.csproj", "{51C842A8-43D3-4808-83E5-B6E63A0095DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompressRun-LengthEncodedList", "DecompressRun-LengthEncodedList\DecompressRun-LengthEncodedList.csproj", "{92B84CE3-12B7-4F2B-8F2A-4EFD8D5C6D56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{51C842A8-43D3-4808-83E5-B6E63A0095DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C842A8-43D3-4808-83E5-B6E63A0095DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C842A8-43D3-4808-83E5-B6E63A0095DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B84CE3-12B7-4F2B-8F2A-4EFD8D5C6D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B84CE3-12B7-4F2B-8F2A-4EFD8D5C6D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B84CE3-12B7-4F2B-8F2A-4EFD8D5C6D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B84CE3-12B7-4F2B-8F2A-4EFD8D5C6D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
