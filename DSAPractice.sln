@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CellsinaRangeonanExcelSheet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitaStringinBalanceStrings", "SplitaStringinBalanceStrings\SplitaStringinBalanceStrings.csproj", "{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounttheDigitsThatDivideaNumber", "CounttheDigitsThatDivideaNumber\CounttheDigitsThatDivideaNumber.csproj", "{0C62A6F2-39C7-4DB4-BC94-2DA237064023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
