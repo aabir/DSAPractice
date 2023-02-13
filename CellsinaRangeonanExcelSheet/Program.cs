@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            var cellsInRange = new Solution().CellsInRange("K1:L2");
+            string test = "K1:L2";
+            char chars = test[0];
+            //Console.WriteLine(new char test[0]);
+
+            var cellsInRange = new Solution().CellsInRange(test);
             Console.WriteLine(String.Join(",", cellsInRange));
         }
 
