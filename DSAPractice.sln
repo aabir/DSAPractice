@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecompressRun-LengthEncoded
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CellsinaRangeonanExcelSheet", "CellsinaRangeonanExcelSheet\CellsinaRangeonanExcelSheet.csproj", "{4F8D4CC9-198E-4B29-A25C-B61954B2A78D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitaStringinBalanceStrings", "SplitaStringinBalanceStrings\SplitaStringinBalanceStrings.csproj", "{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitaStringinBalanceStrings", "SplitaStringinBalanceStrings\SplitaStringinBalanceStrings.csproj", "{4B3E5C33-7C21-4472-82DE-3EBCDA911EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounttheDigitsThatDivideaNumber", "CounttheDigitsThatDivideaNumber\CounttheDigitsThatDivideaNumber.csproj", "{0C62A6F2-39C7-4DB4-BC94-2DA237064023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CounttheDigitsThatDivideaNumber", "CounttheDigitsThatDivideaNumber\CounttheDigitsThatDivideaNumber.csproj", "{0C62A6F2-39C7-4DB4-BC94-2DA237064023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2325DecodeTheMessage", "2325DecodeTheMessage\2325DecodeTheMessage.csproj", "{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C62A6F2-39C7-4DB4-BC94-2DA237064023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
