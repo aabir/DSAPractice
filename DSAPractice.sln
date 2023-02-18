@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitaStringinBalanceString
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CounttheDigitsThatDivideaNumber", "CounttheDigitsThatDivideaNumber\CounttheDigitsThatDivideaNumber.csproj", "{0C62A6F2-39C7-4DB4-BC94-2DA237064023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2325DecodeTheMessage", "2325DecodeTheMessage\2325DecodeTheMessage.csproj", "{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2325DecodeTheMessage", "2325DecodeTheMessage\2325DecodeTheMessage.csproj", "{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1773CountItemsMatchingRule", "1773CountItemsMatchingRule\1773CountItemsMatchingRule.csproj", "{A4CB82E0-2435-4A8F-BA1A-C75C5B3B796D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D03E0AF-6076-4D5E-AFA6-5E5F07724BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CB82E0-2435-4A8F-BA1A-C75C5B3B796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CB82E0-2435-4A8F-BA1A-C75C5B3B796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CB82E0-2435-4A8F-BA1A-C75C5B3B796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CB82E0-2435-4A8F-BA1A-C75C5B3B796D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
