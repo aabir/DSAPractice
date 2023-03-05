@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2367NumberOfArithmeticTripl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1791FindCenterofStartGraph", "1791FindCenterofStartGraph\1791FindCenterofStartGraph.csproj", "{1B627DD6-D560-4E55-B2BA-A5925D10B1C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588SumofAllOddLengthSubarrays", "1588SumofAllOddLengthSubarrays\1588SumofAllOddLengthSubarrays.csproj", "{FE13ACE8-71EF-46CC-BDEB-85ABBE81A4D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +121,14 @@ Global
 		{DFADC9A8-6175-4BC9-978C-86A651FF0CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFADC9A8-6175-4BC9-978C-86A651FF0CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFADC9A8-6175-4BC9-978C-86A651FF0CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B627DD6-D560-4E55-B2BA-A5925D10B1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B627DD6-D560-4E55-B2BA-A5925D10B1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B627DD6-D560-4E55-B2BA-A5925D10B1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B627DD6-D560-4E55-B2BA-A5925D10B1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE13ACE8-71EF-46CC-BDEB-85ABBE81A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE13ACE8-71EF-46CC-BDEB-85ABBE81A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE13ACE8-71EF-46CC-BDEB-85ABBE81A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE13ACE8-71EF-46CC-BDEB-85ABBE81A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
