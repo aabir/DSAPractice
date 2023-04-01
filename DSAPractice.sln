@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1688CountOfMatchesinTournam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816TruncateSentence", "1816TruncateSentence\1816TruncateSentence.csproj", "{CBDACEC4-9817-4DA2-87BA-E8B895D99557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2006CountNumberOfPairsWithAbsoluteDifferenceK", "2006CountNumberOfPairsWithAbsoluteDifferenceK\2006CountNumberOfPairsWithAbsoluteDifferenceK.csproj", "{55BB24AB-1E64-44E6-A71E-5DB7C21BA08F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{CBDACEC4-9817-4DA2-87BA-E8B895D99557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBDACEC4-9817-4DA2-87BA-E8B895D99557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBDACEC4-9817-4DA2-87BA-E8B895D99557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BB24AB-1E64-44E6-A71E-5DB7C21BA08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BB24AB-1E64-44E6-A71E-5DB7C21BA08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BB24AB-1E64-44E6-A71E-5DB7C21BA08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BB24AB-1E64-44E6-A71E-5DB7C21BA08F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
