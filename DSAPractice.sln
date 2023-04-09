@@ -55,7 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2220MinimumBitFlipsToConver
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1684CountTheNumberOfConsistentStrings", "1684CountTheNumberOfConsistentStrings\1684CountTheNumberOfConsistentStrings.csproj", "{BAC057A6-7934-4ABC-B454-C7C4D33E26E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614MaximumNestingDepthoftheParentheses", "1614MaximumNestingDepthoftheParentheses\1614MaximumNestingDepthoftheParentheses.csproj", "{3DCC746D-2EA3-4711-B894-90388F769C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614MaximumNestingDepthoftheParentheses", "1614MaximumNestingDepthoftheParentheses\1614MaximumNestingDepthoftheParentheses.csproj", "{3DCC746D-2EA3-4711-B894-90388F769C55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2315CountAsterisks", "2315CountAsterisks\2315CountAsterisks.csproj", "{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2037MinimumNumberofMovestoSeatEveryone", "2037MinimumNumberofMovestoSeatEveryone\2037MinimumNumberofMovestoSeatEveryone.csproj", "{251DD0F7-7333-4F80-AB38-EAA4797724FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{3DCC746D-2EA3-4711-B894-90388F769C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCC746D-2EA3-4711-B894-90388F769C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCC746D-2EA3-4711-B894-90388F769C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
