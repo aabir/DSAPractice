@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614MaximumNestingDepthofth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2315CountAsterisks", "2315CountAsterisks\2315CountAsterisks.csproj", "{FAC007A8-FF96-4621-AC04-ADF2D5CE9B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2037MinimumNumberofMovestoSeatEveryone", "2037MinimumNumberofMovestoSeatEveryone\2037MinimumNumberofMovestoSeatEveryone.csproj", "{251DD0F7-7333-4F80-AB38-EAA4797724FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2037MinimumNumberofMovestoSeatEveryone", "2037MinimumNumberofMovestoSeatEveryone\2037MinimumNumberofMovestoSeatEveryone.csproj", "{251DD0F7-7333-4F80-AB38-EAA4797724FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557ReverseWordsinaString", "557ReverseWordsinaString\557ReverseWordsinaString.csproj", "{1D6B53ED-0B3F-49D1-BEAD-0218A7C0F033}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{251DD0F7-7333-4F80-AB38-EAA4797724FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6B53ED-0B3F-49D1-BEAD-0218A7C0F033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6B53ED-0B3F-49D1-BEAD-0218A7C0F033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6B53ED-0B3F-49D1-BEAD-0218A7C0F033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6B53ED-0B3F-49D1-BEAD-0218A7C0F033}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
