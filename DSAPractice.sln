@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "804UniqueMorseCodeWords", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2220MinimumBitFlipsToConvertNumber", "2220MinimumBitFlipsToConvertNumber\2220MinimumBitFlipsToConvertNumber.csproj", "{E8BFB836-B82D-4356-9402-F4A2F4AC8570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TwoSum", "01TwoSum\01TwoSum.csproj", "{7B672C8D-C3B4-429A-B178-372C1567C927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E8BFB836-B82D-4356-9402-F4A2F4AC8570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8BFB836-B82D-4356-9402-F4A2F4AC8570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8BFB836-B82D-4356-9402-F4A2F4AC8570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B672C8D-C3B4-429A-B178-372C1567C927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B672C8D-C3B4-429A-B178-372C1567C927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B672C8D-C3B4-429A-B178-372C1567C927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B672C8D-C3B4-429A-B178-372C1567C927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
